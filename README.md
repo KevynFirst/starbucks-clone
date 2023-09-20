@@ -20,7 +20,7 @@
 <br>
 
 <h2 align="center">⚡️ Demonstração</h2>
-<p>Para testar o projeto, basta baixar o <a href="https://github.com/KevynFirst/fblogin-clone-float/archive/refs/heads/main.zip">arquivo</a> e extrai-lo </p>
+<p>Para testar o projeto, basta baixar o <a href="https://github.com/KevynFirst/starbucks-clone-flex/archive/refs/heads/main.zip">arquivo</a> e extrai-lo </p>
 <p>Abra a pasta de extração e execute o arquivo <span style="text-decoration:underline">index.html</span> </p>
 
 <br>
