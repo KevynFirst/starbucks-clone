@@ -30,11 +30,6 @@
 
 <br>
 
-## Obrigado por visitar meu projeto 😉
-<i>Você pode conferir outros projetos que desenvolvi aqui no meu GitHub, ou entrar em contato comigo pelos demais links.</i>
-
-<br>
-
 <a href = "mailto:kevynfirst@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div> 
 
