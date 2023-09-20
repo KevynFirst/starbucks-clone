@@ -26,7 +26,7 @@
 <br>
 
 <h2 align="center">Obrigado por visitar meu projeto 😉</h2>
-<i>Você pode conferir outros projetos que desenvolvi aqui no meu GitHub, ou entrar em contato comigo pelos demais links.</i>
+<p><i>Você pode conferir outros projetos que desenvolvi aqui no meu GitHub, ou entrar em contato comigo pelos demais links.</i></p>
 
 <br>
 
